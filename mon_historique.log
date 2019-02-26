@@ -1,0 +1,59 @@
+    1  ipconfig
+    2  /ipconfig
+    3  ifconfig
+    4  /ipconfig
+    5  ipconfig
+    6  ip config
+    7  /ip config
+    8  /Users/benjamin/Downloads/clmystery-master/hint1 ; exit;
+    9  /Users/benjamin/Downloads/clmystery-master/instructions ; exit;
+   10  nano cheatsheet.md
+   11  /Users/benjamin/Downloads/clmystery-master/instructions ; exit;
+   12  /Users/benjamin/Downloads/clmystery-master/hint1 ; exit;
+   13  /Users/benjamin/Downloads/clmystery-master/hint2 ; exit;
+   14  /Users/benjamin/Downloads/clmystery-master/mystery/crimescene ; exit;
+   15  cat instructions
+   16  /Users/benjamin/Downloads/clmystery-master/mystery/people ; exit;
+   17  /Users/benjamin/Downloads/clmystery-master/mystery/vehicles ; exit;
+   18  cat instructions
+   19  nano cheatshett.md
+   20  /Users/benjamin/Downloads/clmystery-master/mystery/crimescene ; exit;
+   21  /Users/benjamin/Downloads/clmystery-master/hint1 ; exit;
+   22  /Users/benjamin/Downloads/clmystery-master/mystery/crimescene ; exit;
+   23  nano cheatsheet.md
+   24  cat crimescene
+   25  cd/téléchargements
+   26  pwd
+   27  cd téléchargements
+   28  ls
+   29  cd Downloads
+   30  nano cheatsheet.md
+   31  nano cheatsheet.md
+   32  /Users/benjamin/Desktop/clmystery-master/instructions ; exit;
+   33  /Users/benjamin/Desktop/clmystery-master/instructions ; exit;
+   34  pwd
+   35  cd desktop
+   36  cd clmystery-master
+   37  cd mystery
+   38  people
+   39  nano people
+   40  nano people
+   41  cd streets
+   42  nano Claybourne_Street
+   43  nano Plainfield_Street
+   44  nano Dunstable_Road
+   45  cd ..
+   46  cd interviews
+   47  nano interviews-1767435
+   48  nano interview-1767435
+   49  nano interview-29741223
+   50  nano interview-9620713
+   51  cd ..
+   52  cd memberships
+   53  nano AAA
+   54  nano Delta_SkyMiles
+   55  nano Museum_of_Bash_History
+   56  nano Terminal_City_Library
+   57  echo Jeremy Bowers
+   58  history
+   59  history > mon_historique.log
